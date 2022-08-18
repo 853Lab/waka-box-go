@@ -26,6 +26,7 @@ var BarStyle = map[string][]rune{
 	"SOLIDDK":    []rune(`▓▏▎▍▌▋▊▉█`),
 	"EMPTY":      []rune(` ▏▎▍▌▋▊▉█`),
 	"UNDERSCORE": []rune(`▁▏▎▍▌▋▊▉█`),
+	"EMOJI":      []rune(`🌑🌑🌒🌒🌓🌔🌔🌕🌕`),
 }
 
 // BoxStyle contains information for initalizing a gist box style
